@@ -45,6 +45,7 @@ As classes implementadas são:
 
 - Java (JDK 11 ou superior)
 - JDBC
+- Docker DeskTop
 - MySQL
 - IntelliJ IDEA / Eclipse (opcional)
 - Console (via `Scanner`)
