@@ -74,4 +74,5 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ### 4. Certifique-se de que o MySQL está ativo e que a tabela contato foi criada.
 ### 5. Execute a classe Main para iniciar o menu interativo.
 
-## 
+## 👨‍💻 Autor
+Desenvolvido por Henrique Menel - @https://github.com/HenriqueECM
