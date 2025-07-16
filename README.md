@@ -75,4 +75,4 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 ### 5. Execute a classe Main para iniciar o menu interativo.
 
 ## 👨‍💻 Autor
-Desenvolvido por Henrique Menel - @https://github.com/HenriqueECM
+Desenvolvido por [Henrique Menel](https://github.com/HenriqueECM)
