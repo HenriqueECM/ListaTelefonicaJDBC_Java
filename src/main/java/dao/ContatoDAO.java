@@ -46,7 +46,7 @@ public class ContatoDAO {
     }
 
     public void alterar(Contato contato){
-        String sql = "UPDATE contato SET telefone WHERE id = ?";
+        String sql = "UPDATE contato SET telefone = ? WHERE id = ?";
 
         try(Connection conn = Conexao.conectar();
             PreparedStatement stmt = conn.prepareStatement(sql)){
