@@ -33,7 +33,7 @@ public class Gerenciamento {
     public void alterarContato(Scanner sc){
         sc.nextLine();
 
-        System.out.println("LISTA DE CONTATOS PARA ATUALIZAR: ");
+        System.out.println("\nLISTA DE CONTATOS PARA ATUALIZAR: ");
         listarContatos();
 
         System.out.println("\nDigite ID do contato que deseja alterar: ");
@@ -51,7 +51,7 @@ public class Gerenciamento {
     public void deletarContato(Scanner sc){
         sc.nextLine();
 
-        System.out.println("LISTA DE CONTATOS PARA DELETAR: ");
+        System.out.println("\nLISTA DE CONTATOS PARA DELETAR: ");
         listarContatos();
 
         System.out.println("\nDigite ID do contato que deseja deletar da sua lista: ");
