@@ -23,9 +23,11 @@ O sistema é baseado em uma única entidade chamada `Contato`, com os seguintes 
 
 As classes implementadas são:
 
+- `Conexao` – Realiza a conexão com o banco de dados.
 - `Contato` – Representa o modelo da entidade.
 - `ContatoDAO` – Responsável pelas operações CRUD.
-- `Conexao` – Realiza a conexão com o banco de dados.
+- `Gerenciador` – Responsável pela lógica do CRUD.
+- `MenuController` – Responsável pelo menu do sistema.
 - `Main` – Contém o menu interativo de navegação no console.
 
 ---
